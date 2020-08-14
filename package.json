@@ -1,0 +1,14 @@
+{
+  "name": "remoteev3",
+  "version": "1.0.0",
+  "description": "App for programming EV3 bricks remotely",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "Jacob Bashista",
+  "license": "MIT",
+  "dependencies": {
+    "node-ssh": "^11.0.0"
+  }
+}
